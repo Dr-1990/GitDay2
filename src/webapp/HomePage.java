@@ -5,5 +5,6 @@ public class HomePage {
         System.out.println("setting up home page");
         System.out.println("to put in new branch");
         System.out.println("more things ");
+        //add more things before merging
     }
 }
